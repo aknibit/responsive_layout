@@ -1,4 +1,4 @@
-CROSS-DEVICE LANDING PAGE EXAMPLE
+REALLY SIMPLE CROSS-DEVICE LANDING PAGE EXAMPLE
 =================================
 
 Landing page example that will adapt to any screen automatically
